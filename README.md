@@ -24,10 +24,10 @@ by taking the mean of the pairwise Procrustes distances.
 Here for vertebral elements, but would work for quantifying morphological dispatiry in any data set.
 
   
-###  4. Evolutuionary_modelling
+###  4. Evolutionary_modelling
 Code written to test evolutionary models.
 
   
 ###  5. Ancestral_states
-Code wriiten to model ancestral states, continuous and discrete;
+Code written to model ancestral states, continuous and discrete;
 and to plot data on a phylogeny.
