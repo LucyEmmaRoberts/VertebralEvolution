@@ -6,7 +6,7 @@ A collection of code used in my publications.
   Includes:
   1. Regions_analysis.R
   2. Heterogeneity_analysis.R
-  3. Evolutuionary_modelling.R
+  3. Evolutionary_modelling.R
   4. Ancestral_states.R
   
 ###  1. Regions_analysis
