@@ -1,4 +1,4 @@
-# Data from: Independent trajectories to axial skeletal complexity in amniotes
+# Data from: Evolution of the reptile spine reveals independent trajectories to axial skeletal complexity in amniotes
 
 ## Contents:
 
@@ -62,7 +62,7 @@ Nexus formatted phylogeny 'Phylogeny.nex'
 
 ## Additional information: Code/Software
 
-Code is all based in R and is also available via [https://github.com/LucyEmmaRoberts/VertebralEvolution](https://github.com/LucyEmmaRoberts/VertebralEvolution)
+Code is all based in R and is available via [https://github.com/LucyEmmaRoberts/VertebralEvolution](https://github.com/LucyEmmaRoberts/VertebralEvolution)
 
 This code was created and tested using R version 4.3.2 on a PC running Windows 10.
 
